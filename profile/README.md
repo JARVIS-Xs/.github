@@ -14,4 +14,6 @@ QuantaAlpha is an **elite research team** dedicated to advancing **AI Agent tech
 
 📧 quantaalpha.ai@gmail.com  
 
+🐙 Our new GitHub organization: [github.com/QuantaAlpha](https://github.com/QuantaAlpha)  
+
 Contact us for collaboration and opportunities. 🤝  
